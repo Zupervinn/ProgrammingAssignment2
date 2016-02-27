@@ -1,5 +1,5 @@
 ##I am retaking this course to get a certification. This project was forked 8 months ago. 
-##since I had already forked it, i cannot fork it again... i'm editing this so i can refresh the last commit date
+##since I had already forked it, i cannot fork it again... i'm editing this so i can refresh the last commit date.
 
 ## my function "makeCacheMatrix" make a special matrix that can cache
 ## its inverse and my cacheinverse will computes the inverse returned
